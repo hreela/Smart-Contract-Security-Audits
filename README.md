@@ -1,4 +1,4 @@
-#Smart Contracts Audits by Chainsulting
+<b>mart Contracts Audits by #TheBlockCodes<br></b>
 Smart Contract Audits (Ethereum, Hyperledger, EOS, Tezos) by a reputable company are an essential part of any smart contract development. While the rise of blockchain presents a unique opportunity to create smart contracts for digital assets, such as Utility or Security token. Smart Contract applications come with unique security concerns that have historically led to millions of USD in losses (The DAO or Parity Freeze).
 
 To mitigate these risks, it is necessary to conduct Smart Contract Security Audits, also to provide transparency to the investors and community.
