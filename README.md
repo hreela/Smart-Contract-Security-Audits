@@ -5,20 +5,18 @@ To mitigate these risks, it is necessary to conduct Smart Contract Security Audi
 
 #TheBlockCodes provides an audit with the German technology and security standards, which are the highest in the world.<br>
 
-Our Process<br>
+<b>Our Process</b><br>
 Automated Vulnerability Test (Mythril, Slither, Oyente, Solhint, HoneyBadger, Internal Tool,...)
 Manual Security Test (Line by line, SWC-Registry, Overflow, CVE, Gamification of functions,...)
 Optimization & Code Convention Check
 Verify Claims (Your general functions and business logic gets double checked)
 Full Report & Recommendations (If we find critical or high issues doing the audit, we will reach out immediately)<br>
 
-PR:
-Social Media Post (@chainsulting verified Twitter)
-Reflecting the audit on our GitHub & Website
+<b>PR:</b>
 Audit displayed on your CMC Listing (Token)
 Get Your Smart Contract Security Audit Today!
 
-Contact:
-info@theblockcodes.com
-http://t.me/hreela
+<b>Contact:</b><br>
+info@theblockcodes.com<br>
+https://t.me/hreela<br>
 https://theblockcodes.com
